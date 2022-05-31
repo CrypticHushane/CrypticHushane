@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a fullstack developer at Orba Equity
+- 🔭 I’m currently working as a Full Stack Engineer at [Orba](https://orba.io/)
 - 🌱 I’m currently learning Nuxtjs, Docker and Flutter
 - 📫 How to reach me **Email**: oshanewilliams99@outlook.com
 - 📫 How to reach me **LinkedIn**: [LinkedIn Pofile](https://www.linkedin.com/in/oshane-williams-5384ab1a7/)
