@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working as a Full Stack Engineer at [Orba](https://orba.io/)
-- 🌱 I’m currently learning Nextjs, Python(Flask and Django)
 - 📫 How to reach me **Email**: oshanewilliams99@outlook.com
 - 📫 How to reach me **LinkedIn**: [LinkedIn Pofile](https://www.linkedin.com/in/oshane-williams-5384ab1a7/)
 - ⚡ Fun fact: Huge Football⚽ Fan - You'll Never Walk Alone
